@@ -1,0 +1,128 @@
+.h005{
+    height: 50px;
+}
+.h01{
+    height: 100px;
+}
+.h015{
+    height: 150px;
+}
+.h02{
+    height: 200px;
+}
+.h03{
+    height: 300px;
+}
+.h04{
+    height: 400px;
+}
+.h05{
+    height: 500px;
+}
+.h06{
+    height: 600px;
+}
+.h07{
+    height: 700px;
+}
+.h08{
+    height: 800px;
+}
+.h09{
+    height: 900px;
+}
+
+
+.colb{
+    color:black
+}
+.colw{
+    color: white;
+}
+.colin{
+    color: #00adbb;
+}
+.colb1{
+    color: black;
+}
+.colb1:hover{
+    color: #00adbb;
+}
+
+.bgcb{
+    background-color: black;
+}
+
+.bgcw{
+    background-color: white;
+}
+
+
+.bt01{
+    height: 40px;
+    background-color: #00adbb;
+    color: white;
+    border:none
+}
+.ff01{
+     font-family: 'Poppins', sans-serif;;
+}
+
+
+
+.bimgh{
+    height: 100%;width: 100%;transition: 0;background-color: rgba(0, 0, 0, 0);
+    background-image: linear-gradient(180deg,rgba(0, 0, 0, 0.219) 35%,#000000 100%);
+}
+.bimgh:hover{
+    height: 100%;width: 100%;transition: 0;background-color: rgba(0, 0, 0, 0.184);
+    background-image: linear-gradient(180deg,rgba(0,0,0,0) 35%,#000000 100%);
+}
+
+.bimg1{
+    background-image: url(img/3.jpg);background-position: center;background-size: cover;
+}
+
+.bimg2{
+    background-image: url(img/4.jpg);background-position: center;background-size: cover;
+}
+
+.bimg3{
+    background-image: url(img/5.jpg);background-position: center;background-size: cover;
+}
+
+.bimg4{
+    background-image: url(img/6.jpg);background-position: center;background-size: cover;
+}
+
+.bimg5{
+    background-image: url(img/7.jpg);background-position: center;background-size: cover;
+}
+
+.bimg6{
+    background-image: url(img/8.jpg);background-position: center;background-size: cover;
+}
+
+.bimg7{
+    background-image: url(img/9.jpg);background-position: center;background-size: cover;
+}
+
+.bimg8{
+    background-image: url(img/10.jpg);background-position: center;background-size: cover;
+}
+
+.bimg9{
+    background-image: url(img/11.jpg);background-position: center;background-size: cover;
+}
+
+.bimg10{
+    background-image: url(img/12.jpg);background-position: center;background-size: cover;
+}
+
+
+
+
+
+
+
+
