@@ -40,7 +40,7 @@
     color: white;
 }
 .colin{
-    color: #00adbb;
+    color: #0a919bec;
 }
 .colb1{
     color: black;
@@ -56,6 +56,9 @@
 .bgcw{
     background-color: white;
 }
+.bgcin{
+    background-color: #0dcaf0;
+}
 
 
 .bt01{
@@ -68,55 +71,67 @@
      font-family: 'Poppins', sans-serif;;
 }
 
+.br01{
+    border: 1px solid white;
+}
+
 
 
 .bimgh{
     height: 100%;width: 100%;transition: 0;background-color: rgba(0, 0, 0, 0);
-    background-image: linear-gradient(180deg,rgba(0, 0, 0, 0.219) 35%,#000000 100%);
+    background-image: linear-gradient(180deg,rgba(0, 0, 0, 0.112) 35%,#000000 100%);
 }
 .bimgh:hover{
     height: 100%;width: 100%;transition: 0;background-color: rgba(0, 0, 0, 0.184);
-    background-image: linear-gradient(180deg,rgba(0,0,0,0) 35%,#000000 100%);
+    background-image: linear-gradient(180deg,rgba(0, 0, 0, 0.062) 35%,#000000 100%);
+}
+
+.bimgh1{
+    height: 100%;width: 100%;transition: 0;background-color: rgba(0, 0, 0, 0.596);
 }
 
 .bimg1{
-    background-image: url(img/3.jpg);background-position: center;background-size: cover;
+    background-image: url(img/3.jpg);background-position: center;background-size: 100% 100%;
 }
 
 .bimg2{
-    background-image: url(img/4.jpg);background-position: center;background-size: cover;
+    background-image: url(img/4.jpg);background-position: center;background-size:  100% 100%;
 }
 
 .bimg3{
-    background-image: url(img/5.jpg);background-position: center;background-size: cover;
+    background-image: url(img/5.jpg);background-position: center;background-size:  100% 100%;
 }
 
 .bimg4{
-    background-image: url(img/6.jpg);background-position: center;background-size: cover;
+    background-image: url(img/6.jpg);background-position: center;background-size:  100% 100%;
 }
 
 .bimg5{
-    background-image: url(img/7.jpg);background-position: center;background-size: cover;
+    background-image: url(img/7.jpg);background-position: center;background-size:  100% 100%;
 }
 
 .bimg6{
-    background-image: url(img/8.jpg);background-position: center;background-size: cover;
+    background-image: url(img/8.jpg);background-position: center;background-size:  100% 100%;
 }
 
 .bimg7{
-    background-image: url(img/9.jpg);background-position: center;background-size: cover;
+    background-image: url(img/9.jpg);background-position: center;background-size:  100% 100%;
 }
 
 .bimg8{
-    background-image: url(img/10.jpg);background-position: center;background-size: cover;
+    background-image: url(img/10.jpg);background-position: center;background-size:  100% 100%;
 }
 
 .bimg9{
-    background-image: url(img/11.jpg);background-position: center;background-size: cover;
+    background-image: url(img/11.jpg);background-position: center;background-size:  100% 100%;
 }
 
 .bimg10{
-    background-image: url(img/12.jpg);background-position: center;background-size: cover;
+    background-image: url(img/12.jpg);background-position: center;background-size:  100% 100%;
+}
+
+.bimg11{
+    background-image: url(img/21.jpg);background-position: center;background-size: cover;
 }
 
 
